@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @PercivalLin
+- 👀 I’m interested in python-c- 
+- 🌱 I’m currently learning AIGC 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me:Lin18974@outlook.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+PercivalLin/PercivalLin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
