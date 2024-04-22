@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning AIGC 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:Lin18974@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+glad to see u in github,this repo is for my lesson,if u have any problem,welcome to chat with me in eamil
 <!---
 PercivalLin/PercivalLin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
